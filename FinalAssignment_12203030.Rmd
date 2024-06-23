@@ -13,13 +13,9 @@ output:
   html_document: default
 ---
 
-Submitted by:
 
-SHIVAM GOYAL 
 
-Marticulation number: 12203030
 
-Email: shivam.goyal@stud.th-deg.de
 
 
 # ** Overview**
